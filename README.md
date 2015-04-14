@@ -1,2 +1,2 @@
 # hadoop-dockerfile
-Hadoop Dockerfile for single node 
+Hadoop Dockerfile for single node cluster
