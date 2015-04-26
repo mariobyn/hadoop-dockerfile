@@ -1,0 +1,4 @@
+Host *
+  UserKnownHostsFile /dev/null
+  LogLevel quiet
+  Port 2222
