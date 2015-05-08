@@ -11,8 +11,6 @@ source /etc/bash_profile
 start-dfs.sh
 start-yarn.sh
 
-hadoop namenode -format
-hadoop fs -mkdir input
 
 if [[ $1 == "-d" ]]; then
   while true; do sleep 1000; done
